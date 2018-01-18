@@ -1,0 +1,2 @@
+Do hotfix while I was at different branch and had to switch back to master.
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
